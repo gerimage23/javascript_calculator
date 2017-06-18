@@ -14,7 +14,7 @@ def index():
     return render_template('calculator.html')
 
 def main():
-    app.run(debug=True)
+    app.run()
 
 
 if __name__ == '__main__':
