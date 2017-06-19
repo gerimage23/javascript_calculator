@@ -1,5 +1,4 @@
 // Get all the keys from document
-alert('lofasz')
 var keys = document.querySelectorAll('#calculator span');
 var operators = ['+', '-', 'x', '÷'];
 var decimalAdded = false;
